@@ -1,12 +1,15 @@
-<h1>Einkaufsliste</h1>
+# Einkaufsliste
 
-<h2>Essen</h2>
+## Essen
 
-<h3>Für meine Einkaufsliste brauche ich folgende Lebensmittel:</h3>
+### Für meine Einkaufsliste brauche ich folgende Lebensmittel:
 
-<li>Butter</li>
-<li>Milch</li>
-<li>Brot</li>
-<li>Tomaten</li>
-<li>Paprika</li>
-<li>Huhn</li>
+1. Butter
+2. Milch
+3. Brot
+4. Tomaten
+5. Paprika
+6. Huhn
+
+
+[Mehr Details zur Liste](details.md)
